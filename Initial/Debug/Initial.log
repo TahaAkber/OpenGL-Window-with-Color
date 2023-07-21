@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Initial.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Initial.cpp
+  Initial.vcxproj -> C:\Users\Kolnice\source\repos\Initial\Debug\Initial Window with Color.exe
